@@ -1,0 +1,36 @@
+#body
+{
+	background-color: #4D4D90;
+}
+
+div {
+	border: 2px solid #4D4D90;
+
+}
+#GameBox
+{
+	background-color: #11073B;
+}
+
+.GameBody{
+	height : 500px;
+	border: 2px double #3D3175;
+	justify-content: center;
+	align-items: center;
+}
+
+.snake
+{
+	width : 10px;
+	height : 10px;
+	background-color: red;
+	position : absolute;
+}
+
+.food
+{
+	width : 10px;
+	height : 10px;
+	background-color: green;
+	position : absolute;
+}
